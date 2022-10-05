@@ -6,6 +6,7 @@
 ## Commits
 
 255. Start proyect
+256. ConfigureStore and Slices
 
 
 ## Tests
