@@ -7,6 +7,7 @@
 
 255. Start proyect
 256. ConfigureStore and Slices
+257. use store values and dispach actions
 
 
 ## Tests
