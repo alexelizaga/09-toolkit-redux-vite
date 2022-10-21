@@ -10,6 +10,7 @@
 257. use store values and dispach actions
 258. Task: decrement and increment
 260. pokemoSlice
+261. Thunks
 
 
 ## Tests
