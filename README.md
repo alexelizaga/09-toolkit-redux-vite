@@ -11,6 +11,7 @@
 258. Task: decrement and increment
 260. pokemoSlice
 261. Thunks
+261. Axios
 
 
 ## Tests
