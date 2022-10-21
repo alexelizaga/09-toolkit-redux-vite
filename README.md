@@ -14,6 +14,7 @@
 262. Axios
 263. Show pokemons in pages
 264. RTK Query
+265. Consume api through the custom hook
 
 
 ## Tests

@@ -13,7 +13,7 @@ export const todosApi = createApi({
         baseUrl: 'https://jsonplaceholder.typicode.com'
     }),
     endpoints: (builder) => ({
-        getTodos: builder.query<Todo, string>({
+        getTodos: builder.query<Todo[], void>({
             query: () => '/todos'
         })
     })
