@@ -12,6 +12,7 @@
 260. pokemoSlice
 261. Thunks
 262. Axios
+263. Show pokemons in pages
 
 
 ## Tests
